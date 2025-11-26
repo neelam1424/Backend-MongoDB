@@ -1,38 +1,7 @@
-# Node modules
+# Node
 node_modules/
-
-# Environment variables
 .env
-.env.local
-.env.production
-.env.development
+package-lock.json
 
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
-
-# OS/Editor specific
+# Mac
 .DS_Store
-Thumbs.db
-
-# Cache
-.cache/
-tmp/
-temp/
-*.tmp
-
-# Dist / Build
-dist/
-build/
-
-# Coverage reports
-coverage/
-
-# VS Code settings
-.vscode/
-
-# Mongoose / Mongo related dumps
-dump/
